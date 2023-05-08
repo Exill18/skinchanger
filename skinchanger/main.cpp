@@ -4,9 +4,9 @@
 
 namespace offset {
 	//CLIENT
-	constexpr ::std::ptrdiff_t dwLocalPlayer = 0xDEA964;
-	constexpr ::std::ptrdiff_t dwEntityList = 0x4DFFF04;
-	constexpr ::std::ptrdiff_t dwClientState = 0x59F194;
+	constexpr ::std::ptrdiff_t dwLocalPlayer = 0xDE997C;
+	constexpr ::std::ptrdiff_t dwEntityList = 0x4DFEECC;
+	constexpr ::std::ptrdiff_t dwClientState = 0x59F19C;
 	//PLAYER
 	constexpr ::std::ptrdiff_t m_hMyWeapons = 0x2E08;
 	//BASE ATTRIBUTABLE
